@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django using Python**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on Projects where i can showcase my skills through collaboration**
+- 👯 I’m looking to collaborate on Projects where i can showcase my skills through collaboration**
 
 - 📫 How to reach me **nilabjaroy2001@gmail.com**
 
