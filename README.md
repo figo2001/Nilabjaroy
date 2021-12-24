@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nilabja</h1>
 <h3 align="center">Hello Fellow < Developers/ >!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="C:\Users\user\Desktop\68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57546a587559413279346f33555a6c7933572f67697068792e676966.gif" alt="figo2001" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="C:\Users\user\Desktop\68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57546a587559413279346f33555a6c7933572f67697068792e676966.gif" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/roy_nilabja" target="blank"><img src="https://img.shields.io/twitter/follow/roy_nilabja?logo=twitter&style=for-the-badge" alt="roy_nilabja" /></a> </p>
 
